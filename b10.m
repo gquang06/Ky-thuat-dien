@@ -1,4 +1,4 @@
-clear all; close all;
+clear all; close all; % Nguyễn Gia Quang 24020619
 syms it(t) VC VR
 
 % Tín hiệu đầu vào là xung vuông tổ hợp

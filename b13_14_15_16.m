@@ -1,4 +1,4 @@
-close all; clear all;
+close all; clear all; % Nguyễn Gia Quang 24020619
 syms vc(t) R L C vi
 
 % Phương trình vi phân mạch RLC: 

@@ -1,4 +1,4 @@
-syms t
+syms t % Nguyễn Gia Quang 24020619
 k = 3;
 a = 2;
 w = 1;

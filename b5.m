@@ -1,4 +1,4 @@
-syms t t1 
+syms t t1  % Nguyễn Gia Quang 24020619
 C = 0.5e-12;
 
 % Dòng điện qua tụ điện theo từng khoảng thời gian

@@ -1,4 +1,4 @@
-clear all; close all;
+clear all; close all; % Nguyễn Gia Quang 24020619
 syms it(t)
 
 % Tín hiệu vào: Vi(t) = 5*sin(1000*t)

@@ -1,4 +1,4 @@
-clear all; close all;
+clear all; close all; % Nguyễn Gia Quang 24020619
 syms V(t) IL IR IC i_n(t) k
 
 % Nguồn dòng vào

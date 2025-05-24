@@ -1,4 +1,4 @@
-clear all; close all;
+clear all; close all; % Nguyễn Gia Quang 24020619
 syms it(t) t
 
 % Tín hiệu vào: xung tam giác tổ hợp

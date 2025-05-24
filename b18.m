@@ -1,5 +1,6 @@
-clc; clear all; close all;
+clear all; close all;
 syms v1(t) v2(t)
+% Nguyễn Gia Quang 24020619
 
 % Hệ phương trình vi phân
 eq1 = diff(v1, t) + 2*v1 - v2 == 10;
